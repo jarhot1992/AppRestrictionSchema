@@ -1,0 +1,2 @@
+# AppRestrictionSchema
+google sample AppRestrictionSchema
